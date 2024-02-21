@@ -1,0 +1,4 @@
+
+const Crud = () =>{
+    const S
+}
