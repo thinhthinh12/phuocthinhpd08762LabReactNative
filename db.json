@@ -1,6 +1,13 @@
 {
-    "users": [
-        { "name": "le van c", "birthday": "01-01-1987", "id": "1" },
-        { "name": "nguyen van a", "birthday": "01-01-1983", "id": "2" }
-    ]
-}
+    "user": [
+      {
+        "name": "Le Nam Anh",
+        "birthday": "01-01-1987",
+        "id": "1"
+      },
+      {
+        "name": "Le Trung Chinh",
+        "birthday": "01-01-1980",
+        "id": "2"
+      }]
+    }
